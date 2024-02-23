@@ -1,4 +1,4 @@
-About the project : Marketplace that allows selling of pre designed templates which can then be used to write smart contracts. Tech Stack : React, Javascript, HTML/CSSS
+About the project : Marketplace that allows selling of pre designed templates which can then be used to write smart contracts. Smart contracts are digital agreements stored on a blockchain network that automatically execute when certain conditions are met. They are used to automate the execution of an agreement so that all participants can be certain of the outcome. Tech Stack : React, Javascript, HTML/CSSS
 
 
 
